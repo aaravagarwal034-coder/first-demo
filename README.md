@@ -1,2 +1,3 @@
 # first-demo
-learning git and github
+learning git and github 
+watching changes 
